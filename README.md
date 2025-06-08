@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I’m y9 👋
 
-<!--
-**Y9sh/Y9sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an explorer of the digital world — currently learning **AI**, with growing interests in **cybersecurity**, **blockchain**, and much more.
 
-Here are some ideas to get you started:
+🚀 Always curious, always building.  
+💡 Sharing my journey one project at a time (even if some are just experiments or works in progress).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m up to now:
+- Building a **creative AI assistant** to help me track and accelerate my learning.  
+- Developing essential tools for my projects and growth.
+
+### Let’s connect!
+- GitHub projects and repos will appear here as I build them out.  
+- Feel free to follow along or drop a star if you like what you see!
+
+### Looking for dev partners
+- Collaborators who want to grow and build alongside me.  
+- If you have a passion for the digital world and curiosity to explore, let’s connect and create together!
+
+---
+
+*This is just the beginning. I’m learning, growing, and excited for what’s next. Thanks for stopping by!*
