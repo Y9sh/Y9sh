@@ -4,4 +4,4 @@ Currently self-learning Python and exploring software development with an intere
 
 ## Learning Journey
 
-- [Python]([Y9sh/python-learning](https://github.com/Y9sh/python-learning))
+- [Python](https://github.com/Y9sh/python-learning)
