@@ -8,5 +8,5 @@ Currently self-learning Python and exploring software development with an intere
 
 ## Projects
 
-* [DevFlow](https://github.com/Y9sh/DevFlow)
+* [DevFlow](https://github.com/Y9sh/DevFlow) -
   Experimental developer workflow utility for Git automation, local tooling, and AI-assisted workflows.
