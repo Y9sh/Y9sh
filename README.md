@@ -10,3 +10,4 @@ Currently self-learning Python and exploring software development with an intere
 
 * [DevFlow](https://github.com/Y9sh/DevFlow) -
   Experimental developer workflow utility for Git automation, local tooling, and AI-assisted workflows.
+* [TimeSeal](https://github.com/Y9sh/TimeSeal) - A local-first journaling system where each day is manually sealed into immutable history and extended only through reflections.
